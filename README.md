@@ -1,1 +1,3 @@
-# CI-job
+# maven-project
+
+Simple Maven Project
